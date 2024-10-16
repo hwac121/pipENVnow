@@ -1,0 +1,18 @@
+You need to open this inside the diretory you will be using it.
+
+The venv working space name will only be available for the session.
+Once you quit this application the variable holding the workspace
+name will be lost and you will need to start over.
+
+If you need to start over be sure to remove the previous workspace
+directory.
+
+When you create a new venv workspace this script also creates a new
+script inside the working directory to re-activate and deactivate
+the venv anytime you need to run the program it was used for. This
+is made custom for each individual program.
+
+Script created: pip-activate.sh
+
+Run this before running the program it was used for or the program
+will not run properly.
