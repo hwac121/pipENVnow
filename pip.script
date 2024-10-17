@@ -61,7 +61,7 @@ fi
 #========                                 MENU SYSTEM                                    ========#
 #=================================================================================================
 
-options=("Activate venv" "Deactivate venv" "Quit")
+options=("Create pip3 venv" "Activate new venv" "Install requirements" "Deactivate new venv" "Help" "Quit")
 PS3='Start with option 1:  '
 
 while [ "$menu" != 1 ]; do
@@ -82,6 +82,8 @@ select opt in "${options[@]}" ; do
 			sleep 3
 			source $VenvPath/bin/activate
 			sleep 3
+		break
+		;;
 		"Deactivate new venv")
 			clear
 			Splash
