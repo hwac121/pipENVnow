@@ -23,3 +23,5 @@ BUGS
 error in syntax repaired - Oct 16th, 2024
 
 added removal of old files before installation - Oct 16th, 2024
+
+fixed error in menu for pip-activate.sh - Oct 16th, 2024
