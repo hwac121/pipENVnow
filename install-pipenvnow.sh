@@ -100,9 +100,12 @@ fi
 
 echo " "
 echo "Installing pipENVnow script for global access..."
+rm /usr/bin/pipenvnow
 cp pipenvnow.sh /usr/bin/pipenvnow
 chmod +x /usr/bin/pipenvnow
+rm /usr/bin/pip.script
 cp pip.script /usr/bin/pip.script
+rm /usr/bin/syshelp
 cp syshelp /usr/bin/syshelp
 sleep 3
 echo "Now simply type pipenvnow in terminal from the working directory to setup a venv."
