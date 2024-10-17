@@ -17,3 +17,7 @@ they have introduced. This should take the pain out of it for you and make thing
 
 Feel free to use, modify, etc. all or part of this script application for your own use. All I ask is to please give
 me credits as the original author somewhere in the comments of your application.
+
+BUGS
+---------------
+error in syntax repaired - Oct 16th, 2024
