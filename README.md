@@ -14,6 +14,8 @@ If you run into any issue with the script please just report it in issues and I 
 NOTE: I realize the new python venv method can be a pain, even though ti does have great benefits, so I made this
 script to make the whole process a tad easier for folks running into program installs breaking from this new feature
 they have introduced. This should take the pain out of it for you and make things a little easier all around.
+Also please understand I have done limited testing so far. It is very possible that the application itself breaks the
+venv, but I will not know for sure until it is tested.
 
 Feel free to use, modify, etc. all or part of this script application for your own use. All I ask is to please give
 me credits as the original author somewhere in the comments of your application.
