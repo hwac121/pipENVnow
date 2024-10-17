@@ -21,3 +21,4 @@ me credits as the original author somewhere in the comments of your application.
 BUGS
 ---------------
 error in syntax repaired - Oct 16th, 2024
+added removal of old files before installation - Oct 16th, 2024
