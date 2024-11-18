@@ -1,3 +1,5 @@
+THIS PROJECT IS SUSPENDED - NOT RECOMMENDED TO DOWNLOAD - USE AT YOUR OWN RISK!
+
 # pipENVnow
 A utiity to easily setup and use the new pip venv system for applications.
 
